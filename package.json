@@ -1,0 +1,28 @@
+{
+  "name": "fer-tests",
+  "version": "4.1.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/plugin-transform-modules-commonjs": "^7.10.4",
+    "@babel/preset-env": "^7.11.5",
+    "babel-jest": "^26.5.2",
+    "eslint": "^7.11.0",
+    "jest": "^26.5.3",
+    "jest-expect-message": "^1.0.2",
+    "jest-extended": "^0.11.5",
+    "rewire": "^5.0.0"
+  },
+  "dependencies": {
+    "console-testing-library": "^0.3.1",
+    "espree": "^7.3.0",
+    "esprima": "^4.0.1",
+    "lodash": "^4.17.20",
+    "utils": "file:.config/utils"
+  },
+  "prettier": {
+    "printWidth": 120
+  }
+}

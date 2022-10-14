@@ -1,0 +1,3 @@
+exercises:
+    '1_Ocena egzaminu': { max_points: 2.5, disabled: false, grading: [{ points: 1.5, criterion: 'Wykorzystanie instrukcji if ... else' }, { points: 0.5, criterion: 'Oparcie warunków na zmiennej score' }, { points: 0.5, criterion: 'Wyświetlanie odpowiedniego tekstu' }] }
+    '2_Ocena literowa': { max_points: 2.5, disabled: false, grading: [{ points: 1.5, criterion: 'Wykorzystanie instrukcji switch' }, { points: 0.5, criterion: 'Oparcie warunków na zmiennej grade' }, { points: 0.5, criterion: 'Wyświetlanie odpowiedniego tekstu' }] }

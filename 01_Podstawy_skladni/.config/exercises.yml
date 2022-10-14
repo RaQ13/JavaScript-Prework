@@ -1,0 +1,3 @@
+exercises:
+    '1_Hello JS': { max_points: 1, disabled: false, grading: [{ points: 1, criterion: 'Uruchomienie metody console.log z odpowiednim napisem' }] }
+    2_Zmienne: { max_points: 1, disabled: false, grading: [{ points: 0.5, criterion: 'Zdefiniowanie trzech różnych zmiennych (a, b, c)' }, { points: 0.5, criterion: 'Wyświetlenie wartości każdej z nich w konsoli' }] }
